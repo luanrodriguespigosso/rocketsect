@@ -1,0 +1,15 @@
+:root {
+  --theme: #2f2e41;
+  --green: #00bfa6;
+  --gray: #c2c2c2;
+  --white: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--theme);
+}
